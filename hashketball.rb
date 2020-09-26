@@ -1,5 +1,4 @@
 require "pry"
-gem "rufo"
 
 def game_hash
   { home: {
